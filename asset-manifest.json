@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Kanchana/static/css/main.bb3b9ff4.chunk.css",
+    "main.js": "/Kanchana/static/js/main.b1c479e8.chunk.js",
+    "main.js.map": "/Kanchana/static/js/main.b1c479e8.chunk.js.map",
+    "runtime-main.js": "/Kanchana/static/js/runtime-main.ed2c921e.js",
+    "runtime-main.js.map": "/Kanchana/static/js/runtime-main.ed2c921e.js.map",
+    "static/js/2.01f2f5f2.chunk.js": "/Kanchana/static/js/2.01f2f5f2.chunk.js",
+    "static/js/2.01f2f5f2.chunk.js.map": "/Kanchana/static/js/2.01f2f5f2.chunk.js.map",
+    "index.html": "/Kanchana/index.html",
+    "static/css/main.bb3b9ff4.chunk.css.map": "/Kanchana/static/css/main.bb3b9ff4.chunk.css.map",
+    "static/js/2.01f2f5f2.chunk.js.LICENSE.txt": "/Kanchana/static/js/2.01f2f5f2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ed2c921e.js",
+    "static/js/2.01f2f5f2.chunk.js",
+    "static/css/main.bb3b9ff4.chunk.css",
+    "static/js/main.b1c479e8.chunk.js"
+  ]
+}
